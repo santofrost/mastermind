@@ -1,0 +1,26 @@
+// app global css in SCSS form
+body {
+  background-color: #F3F3F3;
+}
+
+.principal-div {
+  width: 100%;
+}
+
+.victory-color {
+  color: $teal-13;
+}
+
+.lost-color {
+  color: $red-13;
+}
+
+.solution-text {
+  color: black;
+  font-weight: bold;
+  font-size: small;
+}
+
+.q-btn {
+  background-color: white;
+}
